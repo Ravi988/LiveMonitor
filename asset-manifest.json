@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Health-Monitoring/static/css/main.04206d44.css",
-    "main.js": "/Health-Monitoring/static/js/main.4b612e26.js",
-    "static/js/787.a97cb00a.chunk.js": "/Health-Monitoring/static/js/787.a97cb00a.chunk.js",
-    "index.html": "/Health-Monitoring/index.html",
-    "main.04206d44.css.map": "/Health-Monitoring/static/css/main.04206d44.css.map",
-    "main.4b612e26.js.map": "/Health-Monitoring/static/js/main.4b612e26.js.map",
-    "787.a97cb00a.chunk.js.map": "/Health-Monitoring/static/js/787.a97cb00a.chunk.js.map"
+    "main.css": "/LiveMonitor/static/css/main.04206d44.css",
+    "main.js": "/LiveMonitor/static/js/main.a17783b9.js",
+    "static/js/787.a97cb00a.chunk.js": "/LiveMonitor/static/js/787.a97cb00a.chunk.js",
+    "index.html": "/LiveMonitor/index.html",
+    "main.04206d44.css.map": "/LiveMonitor/static/css/main.04206d44.css.map",
+    "main.a17783b9.js.map": "/LiveMonitor/static/js/main.a17783b9.js.map",
+    "787.a97cb00a.chunk.js.map": "/LiveMonitor/static/js/787.a97cb00a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.04206d44.css",
-    "static/js/main.4b612e26.js"
+    "static/js/main.a17783b9.js"
   ]
 }
